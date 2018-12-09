@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 0a108c775dfb944b4bf827d6e430bbbc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Gun
+    100002: Gun1
+    100004: Gun10
+    100006: Gun11
+    100008: Gun12
+    100010: Gun13
+    100012: Gun14
+    100014: Gun15
+    100016: Gun16
+    100018: Gun2
+    100020: Gun3
+    100022: Gun4
+    100024: Gun5
+    100026: Gun6
+    100028: Gun7
+    100030: Gun8
+    100032: Gun9
+    100034: Lift
+    100036: //RootNode
+    400000: Gun
+    400002: Gun1
+    400004: Gun10
+    400006: Gun11
+    400008: Gun12
+    400010: Gun13
+    400012: Gun14
+    400014: Gun15
+    400016: Gun16
+    400018: Gun2
+    400020: Gun3
+    400022: Gun4
+    400024: Gun5
+    400026: Gun6
+    400028: Gun7
+    400030: Gun8
+    400032: Gun9
+    400034: Lift
+    400036: //RootNode
+    2300000: Gun
+    2300002: Gun1
+    2300004: Gun10
+    2300006: Gun11
+    2300008: Gun12
+    2300010: Gun13
+    2300012: Gun14
+    2300014: Gun15
+    2300016: Gun16
+    2300018: Gun2
+    2300020: Gun3
+    2300022: Gun4
+    2300024: Gun5
+    2300026: Gun6
+    2300028: Gun7
+    2300030: Gun8
+    2300032: Gun9
+    2300034: Lift
+    2300036: //RootNode
+    3300000: Gun
+    3300002: Gun1
+    3300004: Gun10
+    3300006: Gun11
+    3300008: Gun12
+    3300010: Gun13
+    3300012: Gun14
+    3300014: Gun15
+    3300016: Gun16
+    3300018: Gun2
+    3300020: Gun3
+    3300022: Gun4
+    3300024: Gun5
+    3300026: Gun6
+    3300028: Gun7
+    3300030: Gun8
+    3300032: Gun9
+    3300034: Lift
+    3300036: //RootNode
+    4300000: USS_WASP_HULL
+    4300002: Lift
+    4300004: Gun16
+    4300006: Gun15
+    4300008: Gun14
+    4300010: Gun13
+    4300012: Gun12
+    4300014: Gun11
+    4300016: Gun10
+    4300018: Gun9
+    4300020: Gun8
+    4300022: Gun7
+    4300024: Gun6
+    4300026: Gun5
+    4300028: Gun4
+    4300030: Gun3
+    4300032: Gun2
+    4300034: Gun1
+    4300036: Gun
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

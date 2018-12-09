@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tank" size="15.000000 15.000000" />
+    <ImageTarget name="marines" size="15.000000 20.000000" />
+    <ImageTarget name="f18" size="15.000000 15.000000" />
+    <ImageTarget name="navycvn" size="15.000000 20.000000" />
+    <ImageTarget name="navy" size="15.000000 15.000000" />
+  </Tracking>
+</QCARConfig>

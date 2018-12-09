@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 4aa02c2146c6b1f499f32a0caba69967
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: F22_Aileron_L
+    100004: F22_Aileron_L 1
+    100006: F22_Aileron_R
+    100008: F22_Aileron_R 1
+    100010: F22_Body
+    100012: F22_Door1_Side_L
+    100014: F22_Door1_Side_R
+    100016: F22_Door2_Side_L
+    100018: F22_Door2_Side_R
+    100020: F22_Door_Bottom_L
+    100022: F22_Door_Bottom_R
+    100024: F22_Elevator_L
+    100026: F22_Elevator_R
+    100028: F22_Engine_L
+    100030: F22_Engine_L 1
+    100032: F22_Engine_R
+    100034: F22_Engine_R 1
+    100036: F22_Flap_L
+    100038: F22_Flap_R
+    100040: F22_FrontWheel
+    100042: F22_FrontWheelDoor_L
+    100044: F22_FrontWheelDoor_R
+    100046: F22_Rudder_L
+    100048: F22_Rudder_R
+    100050: F22_SideWheel_L
+    100052: F22_SideWheeldoor_L
+    100054: F22_SideWheeldoor_R
+    100056: F22_SideWheeldoor_R 1
+    100058: F22_Aileron1_L
+    100060: F22_Aileron1_R
+    100062: F22_Aileron1_R 1
+    100064: F22_Aileron2_L
+    100066: Plane001
+    100068: Plane003
+    100070: Plane004
+    100072: Posible LOD1
+    100074: F22_Aileron2_R
+    100076: F22_Engine1_L
+    100078: F22_Engine1_R
+    100080: F22_Engine2_L
+    100082: F22_Engine2_R
+    100084: F22_Flap_L001
+    100086: F22_SideWheel_R
+    100088: F22_Flap_L 1
+    100090: F22_LOD1
+    400000: //RootNode
+    400002: F22_Aileron_L
+    400004: F22_Aileron_L 1
+    400006: F22_Aileron_R
+    400008: F22_Aileron_R 1
+    400010: F22_Body
+    400012: F22_Door1_Side_L
+    400014: F22_Door1_Side_R
+    400016: F22_Door2_Side_L
+    400018: F22_Door2_Side_R
+    400020: F22_Door_Bottom_L
+    400022: F22_Door_Bottom_R
+    400024: F22_Elevator_L
+    400026: F22_Elevator_R
+    400028: F22_Engine_L
+    400030: F22_Engine_L 1
+    400032: F22_Engine_R
+    400034: F22_Engine_R 1
+    400036: F22_Flap_L
+    400038: F22_Flap_R
+    400040: F22_FrontWheel
+    400042: F22_FrontWheelDoor_L
+    400044: F22_FrontWheelDoor_R
+    400046: F22_Rudder_L
+    400048: F22_Rudder_R
+    400050: F22_SideWheel_L
+    400052: F22_SideWheeldoor_L
+    400054: F22_SideWheeldoor_R
+    400056: F22_SideWheeldoor_R 1
+    400058: F22_Aileron1_L
+    400060: F22_Aileron1_R
+    400062: F22_Aileron1_R 1
+    400064: F22_Aileron2_L
+    400066: Plane001
+    400068: Plane003
+    400070: Plane004
+    400072: Posible LOD1
+    400074: F22_Aileron2_R
+    400076: F22_Engine1_L
+    400078: F22_Engine1_R
+    400080: F22_Engine2_L
+    400082: F22_Engine2_R
+    400084: F22_Flap_L001
+    400086: F22_SideWheel_R
+    400088: F22_Flap_L 1
+    400090: F22_LOD1
+    2300000: F22_Aileron_L
+    2300002: F22_Aileron_L 1
+    2300004: F22_Aileron_R
+    2300006: F22_Aileron_R 1
+    2300008: F22_Body
+    2300010: F22_Door1_Side_L
+    2300012: F22_Door1_Side_R
+    2300014: F22_Door2_Side_L
+    2300016: F22_Door2_Side_R
+    2300018: F22_Door_Bottom_L
+    2300020: F22_Door_Bottom_R
+    2300022: F22_Elevator_L
+    2300024: F22_Elevator_R
+    2300026: F22_Engine_L
+    2300028: F22_Engine_L 1
+    2300030: F22_Engine_R
+    2300032: F22_Engine_R 1
+    2300034: F22_Flap_L
+    2300036: F22_Flap_R
+    2300038: F22_FrontWheel
+    2300040: F22_FrontWheelDoor_L
+    2300042: F22_FrontWheelDoor_R
+    2300044: F22_Rudder_L
+    2300046: F22_Rudder_R
+    2300048: F22_SideWheel_L
+    2300050: F22_SideWheeldoor_L
+    2300052: F22_SideWheeldoor_R
+    2300054: F22_SideWheeldoor_R 1
+    2300056: F22_Aileron1_L
+    2300058: F22_Aileron1_R
+    2300060: F22_Aileron1_R 1
+    2300062: F22_Aileron2_L
+    2300064: Plane001
+    2300066: Plane003
+    2300068: Plane004
+    2300070: Posible LOD1
+    2300072: F22_Aileron2_R
+    2300074: F22_Engine1_L
+    2300076: F22_Engine1_R
+    2300078: F22_Engine2_L
+    2300080: F22_Engine2_R
+    2300082: F22_Flap_L001
+    2300084: F22_SideWheel_R
+    2300086: F22_Flap_L 1
+    2300088: F22_LOD1
+    3300000: F22_Aileron_L
+    3300002: F22_Aileron_L 1
+    3300004: F22_Aileron_R
+    3300006: F22_Aileron_R 1
+    3300008: F22_Body
+    3300010: F22_Door1_Side_L
+    3300012: F22_Door1_Side_R
+    3300014: F22_Door2_Side_L
+    3300016: F22_Door2_Side_R
+    3300018: F22_Door_Bottom_L
+    3300020: F22_Door_Bottom_R
+    3300022: F22_Elevator_L
+    3300024: F22_Elevator_R
+    3300026: F22_Engine_L
+    3300028: F22_Engine_L 1
+    3300030: F22_Engine_R
+    3300032: F22_Engine_R 1
+    3300034: F22_Flap_L
+    3300036: F22_Flap_R
+    3300038: F22_FrontWheel
+    3300040: F22_FrontWheelDoor_L
+    3300042: F22_FrontWheelDoor_R
+    3300044: F22_Rudder_L
+    3300046: F22_Rudder_R
+    3300048: F22_SideWheel_L
+    3300050: F22_SideWheeldoor_L
+    3300052: F22_SideWheeldoor_R
+    3300054: F22_SideWheeldoor_R 1
+    3300056: F22_Aileron1_L
+    3300058: F22_Aileron1_R
+    3300060: F22_Aileron1_R 1
+    3300062: F22_Aileron2_L
+    3300064: Plane001
+    3300066: Plane003
+    3300068: Plane004
+    3300070: Posible LOD1
+    3300072: F22_Aileron2_R
+    3300074: F22_Engine1_L
+    3300076: F22_Engine1_R
+    3300078: F22_Engine2_L
+    3300080: F22_Engine2_R
+    3300082: F22_Flap_L001
+    3300084: F22_SideWheel_R
+    3300086: F22_Flap_L 1
+    3300088: F22_LOD1
+    4300000: F22_Body
+    4300002: F22_Door_Bottom_R
+    4300004: F22_Aileron_R
+    4300006: F22_SideWheeldoor_R
+    4300008: F22_Aileron_R
+    4300010: F22_Door1_Side_R
+    4300012: F22_Flap_R
+    4300014: F22_Rudder_R
+    4300016: F22_Door2_Side_R
+    4300018: F22_Door_Bottom_L
+    4300020: F22_Aileron_L
+    4300022: F22_Door1_Side_L
+    4300024: F22_Door2_Side_L
+    4300026: F22_SideWheeldoor_L
+    4300028: F22_SideWheel_L
+    4300030: F22_Flap_L
+    4300032: F22_Aileron_L
+    4300034: F22_Rudder_L
+    4300036: F22_Engine_L
+    4300038: F22_Elevator_L
+    4300040: F22_FrontWheel
+    4300042: F22_FrontWheelDoor_L
+    4300044: F22_Engine_L
+    4300046: F22_FrontWheelDoor_R
+    4300048: F22_Engine_R
+    4300050: F22_Elevator_R
+    4300052: F22_Engine_R
+    4300054: F22_SideWheeldoor_R
+    4300056: Plane004
+    4300058: Plane001
+    4300060: Plane003
+    4300062: Posible LOD1
+    4300064: F22_Aileron1_R
+    4300066: F22_Aileron1_R
+    4300068: F22_Aileron1_L
+    4300070: F22_Aileron2_L
+    4300072: F22_Aileron2_R
+    4300074: F22_Engine1_L
+    4300076: F22_Engine2_L
+    4300078: F22_Engine1_R
+    4300080: F22_Engine2_R
+    4300082: F22_SideWheel_R
+    4300084: F22_Flap_L001
+    4300086: F22_Flap_L
+    4300088: F22_LOD1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F22-Raptor_A
+    second: {fileID: 2100000, guid: 3af75bf93927da44ca60ba5bec1fc246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F22-Raptor_LOD1_A
+    second: {fileID: 2100000, guid: c1fa4337769bad64c8406da92e914796, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
